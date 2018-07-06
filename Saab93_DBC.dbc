@@ -36,6 +36,11 @@ BS_:
 BU_: XXX 6
 
 
-BO_ 193 test: 8 XXX
+BO_ 193 NEW_MSG_1: 8 XXX
  SG_ E : NaN|NaN@0+ (NaN,1) [5|NaN] "1" 6
  SG_ AccPos : 31|8@0+ (0.392157,0) [0|100] "%" XXX
+
+BO_ 320 NEW_MSG_2: 8 XXX
+
+BO_ 272 EngineSpeed: 8 XXX
+ SG_ ThrottePos : 55|8@0+ (0.392157,0) [0|100] "%" XXX
